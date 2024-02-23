@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "90494504912",
+    "project_id": "resume-builder-bbc5f",
+    "storage_bucket": "resume-builder-bbc5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90494504912:android:bfe4abe58149f6b2cf33d5",
+        "android_client_info": {
+          "package_name": "com.example.flutter_resume_builder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFWSagHv4F3S8L6fulaFifYtu6JPTDFt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
